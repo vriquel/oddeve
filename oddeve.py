@@ -10,3 +10,4 @@ for j in range(a+1):
     if j%2==1:
         print("Te no is odd")
         print(j)
+#python program
